@@ -19,5 +19,5 @@ API RESTful para recibir, validar, procesar y almacenar mensajes de chat con sop
 1. **Clonar:**
    ```bash
    git clone https://github.com/Andersoncod/Chat-Backend.git
-   cd nequi_backend
+   cd chat_backend
 
